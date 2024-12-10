@@ -1,0 +1,89 @@
+Albedo#Geo#Sword#Mondstadt
+Alhaitham#Dendro#Sword#Sumeru
+Amber#Pyro#Bow#Mondstadt
+Arataki Itto#Geo#Claymore#Inazuma
+Arlecchino#Pyro#Polearm#Snezhnaya
+Baizhu#Dendro#Catalyst#Liyue
+Barbara#Hydro#Catalyst#Mondstadt
+Beidou#Electro#Claymore#Liyue
+Bennett#Pyro#Sword#Mondstadt
+Candace#Hydro#Polearm#Sumeru
+Charlotte#Cryo#Catalyst#Fontaine
+Chasca#Anemo#Bow#Natlan
+Chevreuse#Pyro#Polearm#Fontaine
+Chiori#Geo#Sword#Inazuma
+Chongyun#Cryo#Claymore#Liyue
+Clorinde#Electro#Sword#Fontaine
+Collei#Dendro#Bow#Sumeru
+Cyno#Electro#Polearm#Sumeru
+Dehya#Pyro#Claymore#Sumeru
+Diluc#Pyro#Claymore#Mondstadt
+Diona#Cryo#Bow#Mondstadt
+Dori#Electro#Claymore#Sumeru
+Emilie#Dendro#Polearm#Fontaine
+Eula#Cryo#Claymore#Mondstadt
+Faruzan#Anemo#Bow#Sumeru
+Fischl#Electro#Bow#Sumeru
+Freminet#Cryo#Claymore#Fontaine
+Furina#Hydro#Sword#Fontaine
+Gaming#Pyro#Claymore#Liyue
+Ganyu#Cryo#Bow#Liyue
+Gorou#Geo#Bow#Inazuma
+Hu Tao#Pyro#Polearm#Liyue
+Jean#Anemo#Sword#Mondstadt
+Kachina#Geo#Polearm#Natlan
+Kaedehara Kazuha#Anemo#Sword#Inazuma
+Kaeya#Cryo#Sword#Mondstadt
+Kamisato Ayaka#Cryo#Sword#Inazuma
+Kamisato Ayato#Hydro#Sword#Inazuma
+Kaveh#Dendro#Claymore#Sumeru
+Keqing#Electro#Sword#Liyue
+Kinich#Dendro#Claymore#Natlan
+Kirara#Dendro#Sword#Inazuma
+Klee#Pyro#Catalyst#Mondstadt
+Kujou Sara#Electro#Bow#Inazuma
+Kuki Shinobu#Electro#Sword#Inazuma
+Layla#Cryo#Sword#Sumeru
+Lisa#Electro#Catalyst#Mondstadt
+Lynette#Anemo#Sword#Fontaine
+Lyney#Pyro#Bow#Fontaine
+Mika#Cryo#Polearm#Mondstadt
+Mona#Hydro#Catalyst#Mondstadt
+Mualani#Hydro#Catalyst#Natlan
+Nahida#Dendro#Catalyst#Sumeru
+Navia#Geo#Claymore#Fontaine
+Neuvillette#Hydro#Catalyst#Fontaine
+Nilou#Hydro#Sword#Sumeru
+Ningguang#Geo#Catalyst#Liyue
+Noelle#Geo#Claymore#Mondstadt
+Ororon#Electro#Bow#Natlan
+Qiqi#Cryo#Sword#Liyue
+Raiden Shogun#Electro#Polearm#Inazuma
+Razor#Electro#Claymore#Mondstadt
+Rosaria#Cryo#Polearm#Mondstadt
+Sangonomiya Kokomi#Hydro#Catalyst#Inazuma
+Sayu#Anemo#Claymore#Inazuma
+Sethos#Electro#Bow#Sumeru
+Shenhe#Cryo#Polearm#Liyue
+Shikanoin Heizou#Anemo#Catalyst#Inazuma
+Sigewinne#Hydro#Bow#Fontaine
+Sucrose#Anemo#Catalyst#Mondstadt
+Tartaglia#Hydro#Bow#Snezhnaya
+Thoma#Pyro#Polearm#Inazuma
+Tighnari#Dendro#Bow#Sumeru
+Venti#Anemo#Bow#Mondstadt
+Wanderer#Anemo#Catalyst#Sumeru
+Wriothesley#Cryo#Catalyst#Fontaine
+Xiangling#Pyro#Polearm#Liyue
+Xianyun#Anemo#Catalyst#Liyue
+Xiao#Anemo#Polearm#Liyue
+Xilonen#Geo#Sword#Natlan
+Xingqiu#Hydro#Sword#Liyue
+Xinyan#Pyro#Claymore#Liyue
+Yae Miko#Electro#Catalyst#Inazuma
+Yanfei#Pyro#Catalyst#Liyue
+Yaoyao#Dendro#Polearm#Liyue
+Yelan#Hydro#Bow#Liyue
+Yoimiya#Pyro#Bow#Inazuma
+Yun Jin#Geo#Polearm#Liyue
+Zhongli#Geo#Polearm#Liyue

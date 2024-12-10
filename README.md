@@ -1,0 +1,2 @@
+# GenMan
+Tugas projek c

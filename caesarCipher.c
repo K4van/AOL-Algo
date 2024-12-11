@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 void encryptCipher(char str[], int shift){
     for(int i = 0; str[i] != '\0'; i++){
         if(str[i] >= 'a' && str[i] <= 'z'){
@@ -33,7 +34,7 @@ void decryptCipher(char str[], int shift) {
 }
 
 int main(){
-    char str[100];
+    char str[101];
     int shift;
     int choice;
     do{
@@ -42,9 +43,18 @@ int main(){
         getchar();
         switch(choice){
             case 1:
+            int i = 0;
+            do {    
                 printf("Enter the string: ");
                 scanf("%[^\n]s", str);
                 getchar();
+                if(strlen(str)<5){
+                    printf("String must be at least 5 characters\n");
+                    getchar();
+                    i = 1;
+                }
+                else i = 0;
+            }while(i==1);
                 printf("Enter the shift: ");
                 scanf("%d", &shift);
                 getchar();
